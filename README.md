@@ -13,4 +13,4 @@ npm install -g @augmentcode/auggie
 ```bash
 auggie
 ```
-
+需要儲值開通 API
